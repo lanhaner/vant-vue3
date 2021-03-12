@@ -1,2 +1,3 @@
-- 通过Vue Cli3创建的前端环境，经测试vant3前端UI组件库
+- 通过Vue Cli3创建的前端环境，经测试正常的vant3前端UI组件库
+- 下载后解压，并安装相关依赖 npm install
 - vant组件使用说明https://vant-contrib.gitee.io/vant/v3/#/zh-CN
